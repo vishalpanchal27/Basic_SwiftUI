@@ -142,7 +142,7 @@
                   endingLineNumber = "15">
                </Location>
                <Location
-                  uuid = "68CBEB4F-EF66-4300-9C59-E645856E4148 - 30bd8541bc795d01"
+                  uuid = "68CBEB4F-EF66-4300-9C59-E645856E4148 - 30bd8541bc795d22"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -152,8 +152,8 @@
                   urlString = "file:///Users/vishalpanchal/Desktop/untitled%20folder/LearnBasicUI/LearnBasicUI/MVVM/Utility/HttpUtility.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16">
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -236,7 +236,7 @@
                   endingLineNumber = "18">
                </Location>
                <Location
-                  uuid = "F614F333-BB03-4627-9C47-3C57D3944F46 - 9e1f5efe3fed1e4e"
+                  uuid = "F614F333-BB03-4627-9C47-3C57D3944F46 - 9e1f5efe3fed1e2f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -246,8 +246,8 @@
                   urlString = "file:///Users/vishalpanchal/Desktop/untitled%20folder/LearnBasicUI/LearnBasicUI/MVVM/Resource/LoginResource.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "19"
-                  endingLineNumber = "19">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -282,7 +282,7 @@
                   endingLineNumber = "35">
                </Location>
                <Location
-                  uuid = "E0399B9C-DDA6-4BD7-A369-E0E6A011F010 - b66975c593b2e49c"
+                  uuid = "E0399B9C-DDA6-4BD7-A369-E0E6A011F010 - b66975c593b2e4bf"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -292,8 +292,8 @@
                   urlString = "file:///Users/vishalpanchal/Desktop/untitled%20folder/LearnBasicUI/LearnBasicUI/MVVM/ViewModel/LoginViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36">
+                  startingLineNumber = "35"
+                  endingLineNumber = "35">
                </Location>
             </Locations>
          </BreakpointContent>
